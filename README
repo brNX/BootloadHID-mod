@@ -1,0 +1,3 @@
+BootloadHID modified to work @ 12,8Mhz on atmega168/328
+
+use gcc 3.4
